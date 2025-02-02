@@ -15,3 +15,10 @@ if (time < 12) {
   greeting = "Good Morning";
 }
 ```
+
+Creating a task list
+
+- [ ] check TODO list
+- [x] check Emails
+- [x] check Appointments
+- [ ] Address the team
